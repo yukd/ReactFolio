@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/yukd/static/css/main.7a95f607.chunk.css",
-    "main.js": "/yukd/static/js/main.da8ec7b8.chunk.js",
-    "main.js.map": "/yukd/static/js/main.da8ec7b8.chunk.js.map",
+    "main.js": "/yukd/static/js/main.0f7154ff.chunk.js",
+    "main.js.map": "/yukd/static/js/main.0f7154ff.chunk.js.map",
     "runtime-main.js": "/yukd/static/js/runtime-main.522b852e.js",
     "runtime-main.js.map": "/yukd/static/js/runtime-main.522b852e.js.map",
     "static/js/2.9a2180c5.chunk.js": "/yukd/static/js/2.9a2180c5.chunk.js",
     "static/js/2.9a2180c5.chunk.js.map": "/yukd/static/js/2.9a2180c5.chunk.js.map",
     "index.html": "/yukd/index.html",
-    "precache-manifest.738b18097c2c2cf1cad6d6b026b5a7d2.js": "/yukd/precache-manifest.738b18097c2c2cf1cad6d6b026b5a7d2.js",
+    "precache-manifest.e16a5ec019fa6ad15bd0745bf00b3ddd.js": "/yukd/precache-manifest.e16a5ec019fa6ad15bd0745bf00b3ddd.js",
     "service-worker.js": "/yukd/service-worker.js",
     "static/css/main.7a95f607.chunk.css.map": "/yukd/static/css/main.7a95f607.chunk.css.map",
     "static/js/2.9a2180c5.chunk.js.LICENSE.txt": "/yukd/static/js/2.9a2180c5.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.522b852e.js",
     "static/js/2.9a2180c5.chunk.js",
     "static/css/main.7a95f607.chunk.css",
-    "static/js/main.da8ec7b8.chunk.js"
+    "static/js/main.0f7154ff.chunk.js"
   ]
 }
